@@ -3,6 +3,7 @@ Source code for first 3 tasks:
 
 Run Instructions:
 	Submitted as a spark job:
+	
 	>> spark-submit --master spark:localhost.8080 ../../tmp/data/cleanup.py
 
 Results for each task:
